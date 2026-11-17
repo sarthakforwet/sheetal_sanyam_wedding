@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 120 120">
+<defs><radialGradient id="w" cx="35%" cy="30%" r="75%"><stop offset="0" stop-color="#F3D99B"/><stop offset=".55" stop-color="#C49A4C"/><stop offset="1" stop-color="#8A6224"/></radialGradient></defs>
+<rect width="120" height="120" rx="26" fill="#170406"/>
+<circle cx="60" cy="60" r="50" fill="url(#w)"/>
+<circle cx="60" cy="60" r="41" fill="none" stroke="#4A1418" stroke-opacity=".35" stroke-width="1.5"/>
+<text x="60" y="70" text-anchor="middle" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#4A1418">S&amp;S</text></svg>
